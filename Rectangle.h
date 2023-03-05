@@ -15,12 +15,12 @@ public:
 	}
 	void draw () override
 	{
-		std::cout << "    *****    " << std::endl;
-		std::cout << "  *********  " << std::endl;
 		std::cout << " *********** " << std::endl;
 		std::cout << " *********** " << std::endl;
-		std::cout << "  *********  " << std::endl;
-		std::cout << "    *****    " << std::endl;
+		std::cout << " *********** " << std::endl;
+		std::cout << " *********** " << std::endl;
+		std::cout << " *********** " << std::endl;
+		std::cout << " *********** " << std::endl;
 	}
 	bool equals (Shape *shape) 
 	{
